@@ -18,7 +18,7 @@ import LogoCalCraft from './LogoCalCraft.png';
 // import logo from '/.logo.png';
 
 import me from '../assets/me.png'
-import ryan from '../assets/ryan.png'
+import siera from '../assets/siera.png'
 import rylee from '../assets/rylee.jpg'
 import sankritya from '../assets/sankritya.png'
 import './HomePage.css'
@@ -50,7 +50,7 @@ const HomePage = () => {
         </div>
         <h2> Our team </h2>
         <div class="team">
-          <div><a href="https://www.linkedin.com/in/sankritya-rai-002a40261/"target="_blank"><img src={sankritya}></img></a>Sankritya Rai<br></br>ML • Backend</div><div><a href="https://www.linkedin.com/in/ryleebao/"target="_blank"><img src={rylee}></img></a>Rylee Bao<br></br>Backend</div><div><a href="https://www.linkedin.com/in/sierra-j-06175b216/"target="_blank"><img src={me}></img></a>Sierra Janson<br></br>Frontend</div><div><a href="https://www.linkedin.com/in/niryan/"target="_blank"><img src={ryan}></img></a>Ryan Ni<br></br>Frontend</div>
+          
         </div>
       </div>
     </div>
