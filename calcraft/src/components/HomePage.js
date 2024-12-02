@@ -45,7 +45,7 @@ const HomePage = () => {
             </a>Ryan Ni
             <br>
             </br>
-            ML • Backend • DB
+            ML + DB
           </div>
           <div>
             <a href="https://www.linkedin.com/in/sankritya-rai-002a40261/" target="_blank" rel="noreferrer">
@@ -53,7 +53,7 @@ const HomePage = () => {
             </a>
             Sankritya Rai
             <br></br>
-            ML • Backend
+            ML + Backend
           </div>
           <div>
             <a href="https://www.linkedin.com/in/ryleebao/" target="_blank" rel="noreferrer">
@@ -62,7 +62,7 @@ const HomePage = () => {
             Rylee Bao
             <br>
             </br>
-            Frontend • Backend
+            Frontend + Backend
           </div>
           <div>
             <a href="https://www.linkedin.com/in/sierra-j-06175b216/" target="_blank" rel="noreferrer">
